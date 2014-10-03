@@ -1,6 +1,5 @@
 package com.example.controller;
 
-import android.util.Log;
 import android.view.View.OnClickListener;
 import android.widget.RadioGroup;
 import android.widget.RadioGroup.OnCheckedChangeListener;
